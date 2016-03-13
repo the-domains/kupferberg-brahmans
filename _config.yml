@@ -1,0 +1,14 @@
+layout_spectrum: 0.2346938
+color:
+  saturation: 0.9691705
+  lightness: 0.9846898
+  brandStrength: 0.5451128
+  brandColors:
+    - '#FC7F00'
+    - '#FFFFFF'
+    - '#242424'
+    - '#B45C02'
+    - '#CFCFCF'
+  rhythmicContrast: 0.9975942
+typography_spectrum: 0.09922803
+name: Kupferberg Brahmans
