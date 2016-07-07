@@ -1,14 +1,29 @@
+name: Kupferberg Brahmans
+favicon: null
 layout_spectrum: 0.2346938
+typography_spectrum: 0.09922803
+title: Breeding the true african Brahmans
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9691705
-  lightness: 0.9846898
-  brandStrength: 0.5451128
   brandColors:
     - '#FC7F00'
     - '#FFFFFF'
     - '#242424'
     - '#B45C02'
     - '#CFCFCF'
+  brandStrength: 0.5451128
+  lightness: 0.9846898
+  saturation: 0.9691705
   rhythmicContrast: 0.9975942
-typography_spectrum: 0.09922803
-name: Kupferberg Brahmans
+purpose: []
